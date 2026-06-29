@@ -1,0 +1,27 @@
+# Зависимости
+node_modules/
+
+# Переменные окружения (СЕКРЕТЫ!)
+.env
+.env.local
+.env.production
+
+# Временные файлы
+scratch/
+*.log
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Gemini agent data
+.gemini/
+.agents/
